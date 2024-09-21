@@ -1,0 +1,64 @@
+[
+   
+          {
+            "name": "Network Security",
+           
+            "icon": "https://img.icons8.com/?size=100&id=1YRyQWkiBjSA&format=png&color=000000"
+          },
+          {
+            "name": "Threat Intelligence",
+            
+            "icon": "https://img.icons8.com/?size=100&id=13084&format=png&color=000000"
+          },
+          {
+            "name": "Incident Response",
+           
+            "icon": "https://img.icons8.com/?size=100&id=pwfxuRRyvEAG&format=png&color=000000"
+          },
+          {
+            "name": "SIEM (Security Information and Event Management)",
+           
+            "icon": "https://img.icons8.com/?size=100&id=49188&format=png&color=000000"
+          },
+          {
+            "name": "Intrusion Detection & Prevention",
+            
+            "icon": "https://img.icons8.com/?size=100&id=44795&format=png&color=000000"
+          },
+          {
+            "name": "Malware Analysis",
+            
+            "icon": "https://img.icons8.com/?size=100&id=9xSF8n0jwyJQ&format=png&color=000000"
+          },
+          {
+            "name": "Vulnerability Assessment",
+            
+            "icon": "https://img.icons8.com/?size=100&id=AtHJxsc55b1D&format=png&color=000000"
+          },
+          {
+            "name": "Log Analysis",
+            
+            "icon": "https://img.icons8.com/?size=100&id=104220&format=png&color=000000"
+          },
+          {
+            "name": "Firewall Management",
+         
+            "icon": "https://img.icons8.com/?size=100&id=BfwyeZWSIX8m&format=png&color=000000"
+          },
+          {
+            "name": "Security Policies and Procedure",
+         
+            "icon": "https://img.icons8.com/?size=100&id=pcPTqe0dOSbv&format=png&color=000000"
+          },
+
+      {
+            "name": "Phishing Analysis",
+         
+            "icon": "https://img.icons8.com/?size=100&id=heAcIsAt5fDC&format=png&color=000000"
+          },
+          {
+            "name": "Digital Forensic",
+         
+            "icon": "https://img.icons8.com/?size=100&id=gmeSwLUqAOMM&format=png&color=000000"
+          }
+]
